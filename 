@@ -1,0 +1,42 @@
+[33mcommit 99b6c7e69698bc0765e040e58b2bd5fe450f9aad[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: JanNovakTest <141013670+JanNovakTest@users.noreply.github.com>
+Date:   Mon Jul 31 10:15:13 2023 +0200
+
+    updated file README.md
+
+[33mcommit 22b5524fd79ad8d0e87bbbb917ffc818a16c5f5c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 5e7007f a3bab62
+Author: Johny <jony5112@gmail.com>
+Date:   Mon Jul 31 00:40:30 2023 +0200
+
+    merged with hello-world-images after fixing conflicts
+
+[33mcommit a3bab62e371739a4a6e29235c79acd90ad021608[m
+Author: Johny <jony5112@gmail.com>
+Date:   Mon Jul 31 00:34:36 2023 +0200
+
+    added a new image
+
+[33mcommit 5e7007f78688c44da16be13cb0dfb53e321e2769[m
+Author: Johny <jony5112@gmail.com>
+Date:   Mon Jul 31 00:26:31 2023 +0200
+
+    updated index.html with emergency branch
+
+[33mcommit 954e247662fa54df0d116a0fcf79ead0cfeb550f[m
+Author: Johny <jony5112@gmail.com>
+Date:   Mon Jul 31 00:16:54 2023 +0200
+
+    added image to hello world
+
+[33mcommit 40b6f3f5c0669f1f7735b0eb9a33ef6348a90213[m
+Author: Johny <jony5112@gmail.com>
+Date:   Sun Jul 30 19:35:27 2023 +0200
+
+    second commit without stage
+
+[33mcommit 0d2217c3ac9ed545c4c2f783017e68fb56f3cd44[m
+Author: Johny <jony5112@gmail.com>
+Date:   Sun Jul 30 19:31:52 2023 +0200
+
+    first commit
